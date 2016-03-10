@@ -29,6 +29,7 @@ int main() {
 	int page; //atoi(argv[1]);
 	int frame; //atoi(argv[2]);
 	int SegmentID;
+	//coba coba
 	page_table_pointer PageTable;
 	int OSPID = getpid();
 	int SharedMemoryKey = OSPID;
